@@ -4,7 +4,6 @@ Here we prodive a set of R functions and scripts to analyse proteomics data.
 - -[x] **Proteomics.R/** Functions to read, pre-process and analyse the data. 
 - -[x] **Proteomics_tests.R/** The unit tests to ensure that the functions are correct. 
  ###### Dependencies
- Our implementation requires R 4 or superior, plus the following libraries:
- - **R (version >=4)*
+ Our implementation requires R 4 or superior.
  ###### License
  - GNU
